@@ -1,5 +1,5 @@
-
-## Oi, eu sou o Maicon 
+![Profile views](https://gpvc.arturio.dev/maiconpereiraaa)
+## Oi, eu sou o Maicon Dilmar Pereira! 
 No momento estou estudando sobre JavaScript, HTML e CSS 
 
 
